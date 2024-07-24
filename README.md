@@ -125,3 +125,5 @@ function verificarVencedor() {
 ## Autor
 
 Desenvolvido por Diego Franco
+
+CHANGES
