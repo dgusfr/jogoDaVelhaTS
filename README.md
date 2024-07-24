@@ -127,3 +127,4 @@ function verificarVencedor() {
 Desenvolvido por Diego Franco
 
 CAHJGES
+changes
