@@ -124,4 +124,4 @@ function verificarVencedor() {
 
 ## Autor
 
-Desenvolvido por Diego Franco
+Desenvolvido por Diego Franco.
