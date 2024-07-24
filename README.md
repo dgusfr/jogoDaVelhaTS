@@ -126,4 +126,4 @@ function verificarVencedor() {
 
 Desenvolvido por Diego Franco
 
-ghD
+CAHJGES
