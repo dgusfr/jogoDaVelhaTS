@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
+    "lib": ["dom", "es2016"], // Adicione 'es2016' ou uma versão posterior
     "outDir": "./dist",
     "rootDir": "./src",
     "strict": true,
