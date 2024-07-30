@@ -1,11 +1,17 @@
 {
   "name": "jogo-da-velha",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Jogo da velha em TypeScript",
+  "main": "dist/app.js",
   "scripts": {
+    "build": "tsc",
+    "start": "tsc && live-server dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "live-server": "^1.2.1"
+  }
 }
